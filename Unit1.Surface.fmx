@@ -1,0 +1,20 @@
+inherited Form1_Surface: TForm1_Surface
+  ClientHeight = 1920
+  ClientWidth = 1080
+  DesignerMasterStyle = 0
+  inherited GymUserGrid: TStringGrid
+    Viewport.Width = 456.000000000000000000
+    Viewport.Height = 161.000000000000000000
+  end
+  inherited MemGrid: TStringGrid
+    Viewport.Width = 235.000000000000000000
+    Viewport.Height = 161.000000000000000000
+  end
+  inherited BindNavigator2: TBindNavigator
+    Size.Width = 240.000000000000000000
+  end
+  inherited StringGrid3: TStringGrid
+    Viewport.Width = 569.000000000000000000
+    Viewport.Height = 137.000000000000000000
+  end
+end
